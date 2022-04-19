@@ -18,3 +18,11 @@ Jika dibagi lagi, maka panjang kolomnya akan semakin kecil, hingga yang paling k
 Selain untuk menentukan tata letak, Grid juga berfungsi sebagai guide line bagi desainer. Sehingga nanti akan membuat desain lebih mudah diterapkan ke dalam kode.
 
 Follow my Instagram @arifnoerramadhan for more info thank you!
+
+## Author
+
+[@arifnoerramadhan](https://www.instagram.com/arifnoerramadhan/)
+
+## Documentation
+
+[CAMP404](https://camp404.com/)
