@@ -29,4 +29,4 @@ Follow my Instagram @arifnoerramadhan for more info thank you!
 
 ## Demo
 
-[Link](https://iifrmdn.github.io/layout-halaman-dengan-bootstrap/)
+[Link](https://arifnrrmdn.github.io/layout-halaman-dengan-bootstrap/)
